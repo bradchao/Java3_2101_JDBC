@@ -13,7 +13,7 @@ public class JDBC05 {
 //				"user=sa;password=sa;" +
 //				"databaseName=Northwind;integratedSecurity=true;";
 		String connectionUrl = 
-				"jdbc:sqlserver://localhost:1433;" +
+				"jdbc:sqlserver://10.21.200.66:1433;" +
 				"user=sa;password=sa;" +
 				"databaseName=Northwind;";
 		try{
