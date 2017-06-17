@@ -20,8 +20,6 @@ public class JDBC02 {
 				DriverManager.getConnection(
 					"jdbc:mysql://localhost/brad",
 					"root","root");
-			
-			
 			// 3. SQL statement
 			Statement stmt = conn.createStatement();
 			// 4. query
