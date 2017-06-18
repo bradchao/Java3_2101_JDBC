@@ -9,6 +9,7 @@ import java.util.Properties;
 
 public class JDBC03 {
 	public static void main(String[] args) {
+		
 		// 1. Driver
 //		try{
 //			Class.forName("com.mysql.jdbc.Driver");
